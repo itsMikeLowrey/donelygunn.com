@@ -10,8 +10,6 @@
         overflow: hidden;"
         src="https://res.cloudinary.com/dylevfpbl/video/upload/v1551009310/decenMain/yes.mp4" autoplay muted loop/>
       </v-flex>
-
-
   </v-container>
 </template>
 
