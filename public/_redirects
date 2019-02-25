@@ -1,3 +1,3 @@
-# Invisbily proxy to design spec
+# Invisibly proxy to design spec
 
 /blog/*  https://blog86756.netlify.com/:splat   200!
