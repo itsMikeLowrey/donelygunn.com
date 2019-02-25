@@ -10,6 +10,20 @@
         overflow: hidden;"
         src="https://res.cloudinary.com/dylevfpbl/video/upload/v1551009310/decenMain/yes.mp4" autoplay muted loop/>
       </v-flex>
+      <v-flex class="hidden-sm-and-down intro" xs12 style="position:relative;height:101vh;">
+         <v-flex class="title" xs8 offset-xs2 pa-4>
+         <div class="display-4 white--text text-xs-center" >
+           Decentralize Justice
+         </div>
+         <br>
+         <div class="text-xs-center">
+
+
+           <v-btn flat class="buttonOpt">About</v-btn>
+           <v-btn flat class="buttonOpt"><a href="https://www.decentralizejustice.com/blog">Blog</a></v-btn>
+         </div>
+       </v-flex>
+</v-flex>
   </v-container>
 </template>
 
@@ -24,5 +38,21 @@ export default {
 }
 </script>
 <style scoped>
-
+a{
+  text-decoration: none;
+  color:black;
+}
+.title{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgb(169,169,169,.9);
+  /* border-radius: 3%; */
+}
+.buttonOpt {
+  color:  black;
+  font-size: 1.4rem;
+}
 </style>
