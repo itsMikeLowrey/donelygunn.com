@@ -8,7 +8,7 @@
         min-width: 100%;
         min-height: 100%;
         overflow: hidden;"
-        src="https://res.cloudinary.com/dylevfpbl/video/upload/v1551049735/donelygunn/Sketch_-_1038.mp4" autoplay muted loop/>
+        src="https://res.cloudinary.com/dylevfpbl/video/upload/v1551060213/donelygunn/crowd.mp4" autoplay muted loop/>
       </v-flex>
       <v-flex class="hidden-sm-and-down intro" xs12 style="position:relative;height:101vh;">
          <v-flex class="title" xs8 offset-xs2 pa-4>
