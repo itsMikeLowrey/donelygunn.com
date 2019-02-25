@@ -8,17 +8,17 @@
         min-width: 100%;
         min-height: 100%;
         overflow: hidden;"
-        src="https://res.cloudinary.com/dylevfpbl/video/upload/v1551009310/decenMain/yes.mp4" autoplay muted loop/>
+        src="https://res.cloudinary.com/dylevfpbl/video/upload/v1551049735/donelygunn/Sketch_-_1038.mp4" autoplay muted loop/>
       </v-flex>
       <v-flex class="hidden-sm-and-down intro" xs12 style="position:relative;height:101vh;">
          <v-flex class="title" xs8 offset-xs2 pa-4>
          <div class="display-4 white--text text-xs-center" >
-           Decentralize Justice
+           Designing the Future
          </div>
          <br>
          <div class="text-xs-center">
            <v-btn flat class="buttonOpt"><router-link to="/about">About</router-link></v-btn>
-           <v-btn flat class="buttonOpt"><a href="https://www.decentralizejustice.com/blog">Blog</a></v-btn>
+           <v-btn flat class="buttonOpt"><a href="">Thoughts</a></v-btn>
          </div>
        </v-flex>
 </v-flex>
